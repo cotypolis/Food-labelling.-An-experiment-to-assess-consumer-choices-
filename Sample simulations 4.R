@@ -3,7 +3,7 @@
 #21/07/23
 
 #Excercise 2: 
-#generates samples with different sample sizes: 50, 100, 300 and 500
+#In R, generates samples with different sample sizes: 50, 100, 300 and 500
 #In each sample, 50% of the participants are randomly assigned to either treatment A or B.
 #In each sample, it simulates randomized choices. 
 #Each participant must answer 15 cereal choice tasks.
